@@ -1,0 +1,41 @@
+img.selfie {
+    float:left;
+    padding-right:15px;
+}
+
+h2 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: 900;
+    padding-bottom: 0px;
+}
+
+h3 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    font-weight: 800;
+    padding-bottom: 0px;
+}
+
+p {
+    margin: 0 0 0 0;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 14px;
+    font-weight:300;
+}
+
+table {
+    margin: 0 0 0 0;
+    padding-left:0px;
+    padding-bottom: 0px;
+    width: 85%;
+}
+
+text-align-right {
+    text-align: right;
+}
+
+ul {
+    margin: 0 0 0 0;
+    padding-bottom: 10px;
+}
