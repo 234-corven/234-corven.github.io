@@ -8,6 +8,8 @@ body {
     margin-bottom:0px;
 }
 
+/*There is a lot of whitespace after all of my headers but I tried to edit the padding and margins to no avail.
+Is there any way to correct the blocks of whitespace under them besides what I have already? */
 h1 {
     font-family : 'Courier New', Courier, serif;
     font-size : 40px;
