@@ -8,12 +8,10 @@ body {
     margin-bottom:0px;
 }
 
-/*There is a lot of whitespace after all of my headers but I tried to edit the padding and margins to no avail.
-Is there any way to correct the blocks of whitespace under them besides what I have already? */
 h1 {
     font-family : 'Courier New', Courier, serif;
     font-size : 40px;
-    padding: 0px;
+    padding-bottom: 0px;
     margin: 0 0 0 0;
 }
 
@@ -21,7 +19,7 @@ h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     font-weight: 900;
-    padding-bottom: 0px;
+    padding-bottom: -20px;
     margin: 10 0 0 0;
 }
 
@@ -29,7 +27,7 @@ h3 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     font-weight: 800;
-    padding-bottom: 0px;
+    padding-bottom: -30px;
 
     margin: 10 0 0 0;
 }
