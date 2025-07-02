@@ -4,6 +4,10 @@ h1,h2,h3 {
 
 }
 
+p, tbody, tr, td {
+    color: whitesmoke;
+}
+
 body {
     background-color:rgb(132, 0, 255)
 }
