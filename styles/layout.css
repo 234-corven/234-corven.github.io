@@ -1,6 +1,7 @@
 img.selfie {
     float:left;
     padding-right:15px;
+    margin: 0px;
 }
 
 img.logo {
@@ -10,6 +11,7 @@ img.logo {
 
 a:link, a:visited, a:active {
     text-decoration: none;
+    color:coral;
 }
 
 a:hover {
@@ -26,24 +28,25 @@ h1 {
     font-family : 'Courier New', Courier, serif;
     font-size : 40px;
     padding-bottom: 0px;
-    margin: 0 0 0 0;
+    margin: 0px;
 }
 
 h2 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 25px;
     font-weight: 900;
-    padding-bottom: -20px;
-    margin: 10 0 0 0;
+    padding-bottom: 0px;
+    margin: 0px;
+
 }
 
 h3 {
     font-family: 'Courier New', Courier, monospace;
     font-size: 20px;
     font-weight: 800;
-    padding-bottom: -30px;
+    padding-bottom: 0px;
 
-    margin: 10 0 0 0;
+    margin: 0px;
 }
 
 p {
@@ -55,10 +58,8 @@ p {
 }
 
 table,tbody {
-    margin: 0 0 0 20;
+    margin: 0px 0px 0px 0px;
     padding-left:20px;
-    padding-bottom: 15px;
-    padding-top: 0px;
     width: 80%;
 }
 
@@ -68,8 +69,8 @@ extra-padding-left-small {
 }
 
 text-align-right {
+    margin: 0px;
     text-align: right;
-    padding-right:10px;
 }
 
 ul {
