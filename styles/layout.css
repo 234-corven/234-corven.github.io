@@ -1,6 +1,22 @@
 img.selfie {
     float:left;
     padding-right:15px;
+    margin: 0px;
+}
+
+img.logo {
+    height : 40px;
+    width : 40px;
+}
+
+a:link, a:visited, a:active {
+    text-decoration: none;
+    color:coral;
+}
+
+a:hover {
+    text-decoration: antiquewhite;
+    background-color: yellow;
 }
 
 body {
@@ -8,13 +24,11 @@ body {
     margin-bottom:0px;
 }
 
-/*There is a lot of whitespace after all of my headers but I tried to edit the padding and margins to no avail.
-Is there any way to correct the blocks of whitespace under them besides what I have already? */
 h1 {
     font-family : 'Courier New', Courier, serif;
     font-size : 40px;
-    padding: 0px;
-    margin: 0 0 0 0;
+    padding-bottom: 0px;
+    margin: 0px;
 }
 
 h2 {
@@ -22,7 +36,8 @@ h2 {
     font-size: 25px;
     font-weight: 900;
     padding-bottom: 0px;
-    margin: 10 0 0 0;
+    margin: 0px;
+
 }
 
 h3 {
@@ -31,7 +46,7 @@ h3 {
     font-weight: 800;
     padding-bottom: 0px;
 
-    margin: 10 0 0 0;
+    margin: 0px;
 }
 
 p {
@@ -43,10 +58,8 @@ p {
 }
 
 table,tbody {
-    margin: 0 0 0 20;
+    margin: 0px 0px 0px 0px;
     padding-left:20px;
-    padding-bottom: 15px;
-    padding-top: 0px;
     width: 80%;
 }
 
@@ -56,8 +69,8 @@ extra-padding-left-small {
 }
 
 text-align-right {
+    margin: 0px;
     text-align: right;
-    padding-right:10px;
 }
 
 ul {
