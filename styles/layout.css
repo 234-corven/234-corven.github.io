@@ -57,7 +57,7 @@ p {
     font-weight:300;
 }
 
-table,tbody {
+table,tbody,tr,td {
     margin: 0px 0px 0px 0px;
     padding-left:20px;
     width: 80%;
